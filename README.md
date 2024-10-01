@@ -40,6 +40,8 @@ For Each Gateway we have at most:
 
 6-	32 PWMs (256 ASCII Characters)
 
+![sht3x](https://github.com/user-attachments/assets/f69d8439-ea3c-4746-a91b-c494a8cc5a95)
+
 ## Current Project Configuration
 -	Main Chip: STM32 F103RET6 (Cortex-M3 core)
 -	Network Module: Quectel M65/M66
